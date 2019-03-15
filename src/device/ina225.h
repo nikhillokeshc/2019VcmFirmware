@@ -17,7 +17,7 @@
 #define INA_GAIN_25         0x00
 #define INA_GAIN_50         0x02
 #define INA_GAIN_100        0x01
-#define INA_GAIN_200        0x04
+#define INA_GAIN_200        0x04              // Gain should be 0x03 right ?
 
 
 /**
